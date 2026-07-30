@@ -1,0 +1,6 @@
+{
+  "name": "Divine Imprints",
+  "description": "Commercial printing, binding, duplex box packaging, and graphic design solutions for Divine Imprints (a unit of Rajiv Book Binding House, est. 1960).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
